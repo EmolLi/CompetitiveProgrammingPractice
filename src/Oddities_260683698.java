@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by emol on 9/19/17.
  */
-public class Oddities {
+public class Oddities_260683698 {
     public static void main(String[] args){
             Scanner sc = new Scanner(System.in);
             long cnt = sc.nextLong();
